@@ -4,7 +4,8 @@
 1. WebRTC
 2. MQTT
 3. SIP
-
+4. CORBA
+5. Sockets
 ___
 ### WebRTC:
 Es una tecnología de comunicación en tiempo real que permite a los navegadores y aplicaciones web realizar videoconferencias, llamadas y compartir archivos directamente entre ellos sin necesidad de instalar plugins o aplicaciones de terceros.
@@ -20,3 +21,13 @@ ___
 
 ___
 
+### CORBA:
+ es “Una arquitectura de negociación de petición de objetos comunes y que podrían ser utilizadas en capas superiores de la Red de Gestión de Telecomunicaciones (RTG) influidas fuertemente por las funciones propuestas en la industria de la información. La gestión integrada de las redes de telecomunicación tradicionales y las redes basadas en el IP son fundamentales para la creación de un marco de referencia que sirva para la gestión unificada de redes de conmutación de circuitos y redes de conmutación de paquetes constitutivos para una misma
+estructura”.
+
+___
+
+### SOCKETS:
+es aquel que permite que dos procesos que se encuentran en hosts diferentes puedan intercambiar datos e información entre sí, esto lo pueden hacer desde una red local o pública de forma fácil.
+
+___
