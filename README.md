@@ -3,7 +3,7 @@
 
 1. WebRTC
 2. MQTT
-3. SÍP
+3. SIP
 
 ___
 ### WebRTC:
@@ -15,7 +15,7 @@ Es un protocolo de comunicación ligero y eficiente diseñado para el Internet d
 
 ___
 
-### SÍP:
+### SIP:
 **Es un protocolo de señalización utilizado para establecer llamadas de voz y video en tiempo real a través de IP.** Es ampliamente utilizado en sistemas de telefonía IP y aplicaciones de videoconferencia.
 
 ___
