@@ -1,24 +1,15 @@
 # Práctico N 3
 ## Lista de 3 medios (a nivel de software), por los que se puede establecer comunicacion para las aplicaciones en tiempo real:
 
-1. WebRTC
-2. MQTT
-3. SIP
-4. CORBA
-5. Sockets
+1. RMI
+2. CORBA
+3. SOCKETS
+4. WEBSOCKETS
 ___
-### WebRTC:
+### RMI: 
+RMI se puede interpretar como una versión simplificada de CORBA (un estándar complejo que permite la implementación de sistemas distribuidos basados en objetos, independientemente del lenguaje de programación que se utilice para implementar las distintas partes del sistema).
+RMI solo puede utilizarse en java, por lo que no sirve para conectar una aplicación Java a un sistema no escrito en java.
 Es una tecnología de comunicación en tiempo real que permite a los navegadores y aplicaciones web realizar videoconferencias, llamadas y compartir archivos directamente entre ellos sin necesidad de instalar plugins o aplicaciones de terceros.
-___
-
-### MQTT:
-Es un protocolo de comunicación ligero y eficiente diseñado para el Internet de las cosas (IoT). Es adecuado para aplicaciones en tiempo real que requieren un bajo consumo de energía y ancho de banda, como sensores y actuadores.
-
-___
-
-### SIP:
-**Es un protocolo de señalización utilizado para establecer llamadas de voz y video en tiempo real a través de IP.** Es ampliamente utilizado en sistemas de telefonía IP y aplicaciones de videoconferencia.
-
 ___
 
 ### CORBA:
@@ -29,5 +20,11 @@ ___
 
 ### SOCKETS:
 es aquel que permite que dos procesos que se encuentran en hosts diferentes puedan intercambiar datos e información entre sí, esto lo pueden hacer desde una red local o pública de forma fácil.
+
+___
+
+### WEBSOCKETS:
+
+Una tecnología reciente, similar a sockets pero enfocada para la Web.
 
 ___
